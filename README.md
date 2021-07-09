@@ -11,3 +11,6 @@ An exoskeleton arm which helps you to lift up heavy projects with very little ef
 
 ## Achievements:
 1. We have presented it in Elan&nvision and among 20-25projects from all other colleges we stood 2nd position and won Rs.2000 cashprize.
+## Project Images:
+
+![Image1](https://github.com/naitik-malav/Exoskeleton-Arm/blob/main/1625827613215.jpg)
